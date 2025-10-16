@@ -1,0 +1,9 @@
+build/
+*.o
+*.obj
+*.exe
+*.elf
+*.map
+CMakeFiles/
+CMakeCache.txt
+.DS_Store
